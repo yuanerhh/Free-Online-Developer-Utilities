@@ -12,7 +12,7 @@ Explore all tools at: [yuanerapp.org](https://yuanerapp.org/)
 A free online JSON formatter and beautifier. 
 
 🌐 **Try it here:**
-https://yuanerapp.org/json-formatter
+https://yuanerapp.org/en/json-formatter
 
 **Features**
 - Format JSON instantly
@@ -26,7 +26,7 @@ https://yuanerapp.org/json-formatter
 A free online JSON validator to check syntax. 
 
 🌐 **Try it here:**
-https://yuanerapp.org/json-validator
+https://yuanerapp.org/en/json-validator
 
 **Features**
 - Validate JSON structure
@@ -40,7 +40,7 @@ https://yuanerapp.org/json-validator
 A free online converter built to extract JSON arrays to CSV format.
 
 🌐 **Try it here:**
-https://yuanerapp.org/json-to-csv
+https://yuanerapp.org/en/json-to-csv
 
 **Features**
 - Convert JSON arrays or objects easily
@@ -54,7 +54,7 @@ https://yuanerapp.org/json-to-csv
 A free online Base64 generator and decoder.
 
 🌐 **Try it here:**
-https://yuanerapp.org/base64
+https://yuanerapp.org/en/base64
 
 **Features**
 - Encode raw text to Base64 fast
@@ -68,7 +68,7 @@ https://yuanerapp.org/base64
 A free online image compression tool designed to optimize image size without losing visual quality.
 
 🌐 **Try it here:**
-https://yuanerapp.org/image-compressor
+https://yuanerapp.org/en/image-compressor
 
 **Features**
 - Downsize images flawlessly
@@ -82,7 +82,7 @@ https://yuanerapp.org/image-compressor
 A free online SQL queries beautifier and formatter.
 
 🌐 **Try it here:**
-https://yuanerapp.org/sql-formatter
+https://yuanerapp.org/en/sql-formatter
 
 **Features**
 - Beautify ugly SQL queries
@@ -96,7 +96,7 @@ https://yuanerapp.org/sql-formatter
 A free online live Regex testing engine.
 
 🌐 **Try it here:**
-https://yuanerapp.org/regex-tester
+https://yuanerapp.org/en/regex-tester
 
 **Features**
 - Test regular expressions instantly
@@ -110,7 +110,7 @@ https://yuanerapp.org/regex-tester
 A free online Color format parser and converter.
 
 🌐 **Try it here:**
-https://yuanerapp.org/color-converter
+https://yuanerapp.org/en/color-converter
 
 **Features**
 - Convert seamlessly between HEX, RGB and HSL
@@ -124,7 +124,7 @@ https://yuanerapp.org/color-converter
 A free online Unix Epoch time translator.
 
 🌐 **Try it here:**
-https://yuanerapp.org/timestamp-converter
+https://yuanerapp.org/en/timestamp-converter
 
 **Features**
 - Convert Epoch timestamps to datetime
@@ -138,7 +138,7 @@ https://yuanerapp.org/timestamp-converter
 A free online tabular CSV data rendering tool.
 
 🌐 **Try it here:**
-https://yuanerapp.org/csv-viewer
+https://yuanerapp.org/en/csv-viewer
 
 **Features**
 - Render CSV strings cleanly 
@@ -152,7 +152,7 @@ https://yuanerapp.org/csv-viewer
 A free online Text to PDF formatting utility.
 
 🌐 **Try it here:**
-https://yuanerapp.org/pdf-tools
+https://yuanerapp.org/en/pdf-tools
 
 **Features**
 - Convert plain text to PDF document
